@@ -93,3 +93,30 @@ Bu oyunu yerel
 Bu oyun
 
 Bu
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Oyun Kontrolleri
+Oyunu oynamak için aşağıdaki kontrolleri kullanabilirsiniz:
+
+- Yukarı: Yukarı tuşu veya 'W' tuşu
+- Aşağı: Aşağı tuşu veya 'S' tuşu
+- Sol: Sol tuşu veya 'A' tuşu
+- Sağ: Sağ tuşu veya 'D' tuşu
+
+## Katkıda Bulunma
+Eğer bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyin:
+
+1. Bu projeyi fork edin.
+2. Yeni bir branch oluşturun: `git checkout -b yeni-ozellik`
+3. Değişikliklerinizi yapın ve commit'leyin: `git commit -m 'Yeni özellik ekle'`
+4. Branch'inizi orijinal repository'e gönderin: `git push origin yeni-ozellik`
+5. Pull request oluşturun.
+
+## Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
+
+## İletişim
+Eğer herhangi bir sorunuz veya öneriniz varsa, benimle [e-posta adresi](mailto:ornek@posta.com) üzerinden iletişime geçebilirsiniz.
+
+
